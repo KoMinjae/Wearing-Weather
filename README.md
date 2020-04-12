@@ -12,17 +12,21 @@
 
 5. 결과화면
 
-<b>시작화면</b>
+<b>1) 시작화면</b>
 
 <img src="https://user-images.githubusercontent.com/37204852/79061977-cfd36180-7cd0-11ea-9444-56e4992609fb.png">
 
-<b>홈</b>
+<b>2) 홈</b>
 
 <img src="https://user-images.githubusercontent.com/37204852/79062004-07420e00-7cd1-11ea-9c42-54c8fbda9993.png">
 
-<b>지역선택</b>
+<b>3) 지역선택</b>
 
 <img src="https://user-images.githubusercontent.com/37204852/79062019-2f317180-7cd1-11ea-9023-21a6818e709e.png">
+
+<b>4) 옷차림 정보</b>
+
+<img src="https://user-images.githubusercontent.com/37204852/79062045-7ddf0b80-7cd1-11ea-985a-2c68e3602c46.png">
 
 # 실행방법
 
